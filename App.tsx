@@ -5,7 +5,7 @@ import Navbar from "./components/navbar";
 import RNFS from "react-native-fs";
 
 export default function App() {
-  const [downloadFolder, setDownloadFolder] = useState("");
+  // const [downloadFolder, setDownloadFolder] = useState("");
 
   return (
     <>
